@@ -1,0 +1,69 @@
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBilgiDuzenle.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorDetay.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorGiris.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormGirisPaneli.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaDetay.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaGiris.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaKayit.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBransPaneli.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorBilgiDuzenle.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorPaneli.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDuyurular.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormRandevuListesi.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterDetay.resources
+C:\Users\Monster\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterGiris.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBilgiDuzenle.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBransPaneli.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorBilgiDuzenle.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorDetay.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorGiris.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorPaneli.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDuyurular.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormGirisPaneli.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaDetay.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaGiris.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaKayit.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormRandevuListesi.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterDetay.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterGiris.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Monster\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBilgiDuzenle.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormBransPaneli.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorBilgiDuzenle.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorDetay.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorGiris.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDoktorPaneli.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormDuyurular.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormGirisPaneli.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaDetay.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaGiris.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormHastaKayit.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormRandevuListesi.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterDetay.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FormSekreterGiris.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Fatih Filizol\Desktop\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
